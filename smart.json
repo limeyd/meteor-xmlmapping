@@ -1,0 +1,8 @@
+{
+  "name": "node-xml-mapping",
+  "description": "Node Xml Mapping packaged for Meteor",
+  "homepage": "https://github.com/limeyd/meteor-xmlmapping",
+  "author": "Darren Pearce <limeyd@gmail.com>",
+  "version": "1.0.0",
+  "git": "https://github.com/limeyd/meteor-xmlmapping.git"
+}

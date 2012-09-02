@@ -1,0 +1,3 @@
+[submodule "lib/xml-mapping"]
+	path = lib/xml-mapping
+	url = https://github.com/lindory-project/node-xml-mapping.git
